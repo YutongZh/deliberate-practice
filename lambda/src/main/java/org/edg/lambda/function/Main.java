@@ -1,4 +1,4 @@
-package org.edg.lambda;
+package org.edg.lambda.function;
 
 /**
  * @auther zyt
